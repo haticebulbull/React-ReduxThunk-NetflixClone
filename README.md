@@ -1,3 +1,5 @@
+# React-ReduxThunk-NetflixClone
+
 # kütüphaneler
 
 - react-router-dom
@@ -18,4 +20,9 @@
 API: https://developer.themoviedb.org/reference
 
 SLIDER: https://splidejs.com/guides/getting-started/
-# React-ReduxThunk-NetflixClone
+
+
+# Preview
+![EkranKayd2025-01-2903 10 00-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9094a32a-61ce-4ea5-a3c7-45ebf6fa5a29)
+
+
